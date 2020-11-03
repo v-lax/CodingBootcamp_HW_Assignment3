@@ -21,3 +21,4 @@ Every time the user clicks on the generate password button, they are asked to do
 Now the only issue I was not able to resolve was the following. I was not able to check if the password that was generated contained at least one character assigned from each of the criteria chosen by the user. I think I got close though. I was messing around with using the array.some() method, which checks if at least one element of the array meets specific criteria specified in the some method by a callback function, but was not able to check it against the multiple arrays that I had. Still working on this, but I think I can find the solution pretty soon! 
 
 # Link to deployed github page
+1. https://v-lax.github.io/CodingBootcamp_HW_Assignment3/
