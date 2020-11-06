@@ -55,7 +55,7 @@ function generatePassword(){
 //character from each of the criteria's selected by the user. I was using the "some" method
 //which returns true if at least one element in the array matched the elements in another array.
 // I never got around to figuring out how to check it against each array in my possibleChar array. 
-// But i'll keep working towards it! 
+// But i'll keep working towards it! \
 //{let marks = [ 'a', 'B', 'C' ];
 // let lessThanFive = marks.some(function(e){
 //   for(var j=0;j<possibleChar.length;i++){
