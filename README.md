@@ -1,5 +1,5 @@
-# CodingBootcamp_HW_Assignment3
-UNCC Coding Bootcamp Assignment 3 - practicing some javascript to create a random password generator.
+# Password Generator
+practicing some javascript to create a random password generator.
 
 # Description 
 This was a really fun assignment. We were given the following; an HTML and CSS file that had all the structure and styling in place, and a spare java script file. That was where our all my work went, into that javascript file. I had to write the logic for creating a random password generator.
