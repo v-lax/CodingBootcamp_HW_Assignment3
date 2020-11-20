@@ -2,7 +2,7 @@
 practicing some javascript to create a random password generator.
 
 # Description 
-This was a really fun assignment. We were given the following; an HTML and CSS file that had all the structure and styling in place, and a spare java script file. That was where our all my work went, into that javascript file. I had to write the logic for creating a random password generator.
+This was a really fun project. We were given the following; an HTML and CSS file that had all the structure and styling in place, and a spare java script file. That was where our all my work went, into that javascript file. I had to write the logic for creating a random password generator.
 
 # How it works
 Every time the user clicks on the generate password button, they are asked to do the following.
